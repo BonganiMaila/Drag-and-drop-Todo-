@@ -33,7 +33,7 @@ It is a list of tasks you need to complete, or things that you want to do. Most 
 ## Screenshots of the pages
 
 ### Start
-![](https://github.com/BonganiMaila/Watch-Us/blob/main/e-commerce/screenshots/start.png)
+![](https://github.com/BonganiMaila/Drag-and-drop-Todo-/blob/main/drag%20and%20drop%20todo/screenshots/start.png)
 
 ### Items
 ![](https://github.com/BonganiMaila/Drag-and-drop-Todo-/blob/main/drag%20and%20drop%20todo/screenshots/items.png)
