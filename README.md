@@ -1,15 +1,12 @@
 # Drag-and-drop-Todo-
 
 
-This project is an online shopping store that sells watches products. 
-It provides an easy access for consumers to buy watches which at times can prove to be a hassle than going around at a physical score. With Watch us all watches, and accessories  are put in one place. At a reasonable price. 
+## Description of project
+It is a list of tasks you need to complete, or things that you want to do. Most typically, they're organised in order of priority. Traditionally, they're written on a piece of paper or post it notes and acts as a memory aid.
 
 ## Table of Contents
 
 - Index page
-
-
-
 
 ## Technologies Used
 
